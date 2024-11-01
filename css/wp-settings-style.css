@@ -1,0 +1,42 @@
+
+table.headerInfo {
+	width: 60%;
+	background-color: rgba( 242,242,242, 1);
+	margin-left: 1%;
+	border: none;
+}
+
+table.headerInfo td{
+	border:none;
+  font-size: 15;
+}
+
+table.phpinfo {
+	width: 60%;
+	background-color: rgba( 242,242,242, 1);
+	border:none;
+	margin-left: 1%;
+}
+
+table.phpinfo th,  {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+     font-size: 12;
+  }
+table.phpinfo tr:nth-child(even) {
+    background-color: #eee;
+  }
+table.phpinfo tr:nth-child(odd) {
+    background-color: #fff;
+  }      
+
+table.phpinfo tr:hover { background: rgba( 230,230,230, 1); }
+
+table.phpinfo th {
+    border: 1px groove black;
+    background-color: : :red;
+}
+table.phpinfo th {
+   border: 1px solid #ccc;
+ }
